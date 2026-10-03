@@ -123,7 +123,7 @@
       zh_tw: "",
       zh_cn: "",
     },
-    photo_save: { en: "💾 Save", zh_tw: "💾 拯救", zh_cn: "💾 保存" },
+    photo_save: { en: "💾 Save", zh_tw: "💾 保存", zh_cn: "💾 保存" },
     photo_share: { en: "📤 Share", zh_tw: "📤 分享", zh_cn: "📤 分享" },
     photo_close: { en: "✕ Close", zh_tw: "✕ 關閉", zh_cn: "✕ 关闭" },
     photo_retake: { en: "🔄 Retake", zh_tw: "🔄 重拍", zh_cn: "🔄 重拍" },
