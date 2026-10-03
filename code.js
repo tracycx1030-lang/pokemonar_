@@ -68,7 +68,7 @@
     },
     appeared: {
       en: "✨ Wild {n} appeared!",
-      zh_tw: "✨ 狂野的 {名} 出現了！",
+      zh_tw: "✨ 野生的 {名} 出現了！",
       zh_cn: "✨ 野生的 {n} 出现了！",
     },
     loading_name: {
@@ -85,8 +85,8 @@
     spin_off: { en: "Spin OFF", zh_tw: "旋轉 關", zh_cn: "旋转 关" },
     loading_title: {
       en: "Loading Pokémon AR…",
-      zh_tw: "正在載入 口袋妖怪 AR…",
-      zh_cn: "正在加载 口袋妖怪 AR…",
+      zh_tw: "正在載入 精靈寶可夢 AR…",
+      zh_cn: "正在加载 精灵宝可梦 AR…",
     },
     requesting_camera: {
       en: "Requesting camera…",
